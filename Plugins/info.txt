@@ -1,0 +1,3 @@
+store your themes from C:\Users\(user)\AppData\Roaming\BetterDiscord\Plugins here
+Note: the AppData folder is hidden, so turn on hidden items under the view - 
+tab located at the top of file explorer
