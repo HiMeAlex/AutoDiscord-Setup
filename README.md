@@ -1,4 +1,4 @@
-Run insert.bat on any computer to get discord set up with your better discord
+Run insert.bat on any windows 7, 8, 10, or 11 computer to get discord set up with your better discord
 themes and plugins. If you would like to copy the configurations from an already
 existing better discord installation, make sure your Themes and Plugins are in the
 folders before running.
